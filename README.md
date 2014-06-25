@@ -8,9 +8,9 @@
 * 教育：广西交通职业技术学院,大二
 * 专业：计算机应用技术
 * 电话：15578005930
-* e-mail：pcwow789@gmail.com
-* GitHub：https://github.com/pcwow789
-------------------------------
+* E-mail：pcwow789@gmail.com
+* GitHub：github.com/pcwow789
+
 项目：
 ------------------------------
 * Node.js的聊天室    
