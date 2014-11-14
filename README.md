@@ -35,8 +35,9 @@ https://github.com/pcwow789/rsyncExercise
 
 
 ##技能清单：
+对js比较熟悉，其他均为近似hello world水平
 
-* windows 客户端开发：c/c++/qt/java
+* Windows开发：C/C++/Qt/Java
 * Web开发：PHP/Node
 * 前端框架：Bootstrap/AngularJS
 * 前端工具：Bower
