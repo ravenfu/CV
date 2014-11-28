@@ -21,6 +21,10 @@ https://github.com/pcwow789/spNews
 图片轮播的jQuery插件    
 https://github.com/pcwow789/octSlider
 
+* ###player
+一个简单的网页本地音乐播放器
+https://github.com/pcwow789/player
+
 * ###Node.js的聊天室    
 一个Node.js的练习,基于socket.io    
 https://github.com/pcwow789/nodeJs_chatRoom
