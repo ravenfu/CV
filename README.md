@@ -22,7 +22,7 @@ https://github.com/pcwow789/spNews
 https://github.com/pcwow789/octSlider
 
 * ###player
-一个简单的网页本地音乐播放器
+一个简单的网页本地音乐播放器    
 https://github.com/pcwow789/player
 
 * ###Node.js的聊天室    
